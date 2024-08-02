@@ -1,0 +1,34 @@
+.sectCal1 {
+    margin: 5rem;
+}
+
+.operadores {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.operadores *,
+.botones * {
+    margin: 0.5rem;
+}
+
+#num1,
+#num2,
+#resultado3 {
+    width: 6rem;
+    text-align: center;
+}
+
+#select,
+#num1,
+#num2,
+#resultado3 {
+    height: 2rem;
+}
+
+p {
+    font-size: 2rem;
+    text-align: center;
+    height: 4rem;
+}
